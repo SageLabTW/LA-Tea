@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Home
+title: 首頁
 layout: home
 ---
 
@@ -27,4 +27,4 @@ layout: home
 
 ## 風格指引
 
-請參考 [互助練功區模版](https://hackmd.io/rT95TJNjRRy9gIE-b3K5gg?both)。
+請參考 [互助練功區模版](https://hackmd.io/rT95TJNjRRy9gIE-b3K5gg?both) 以及 [風格指引](style.html)。

@@ -35,13 +35,17 @@ github_username:  SageLabTW
 theme: minima
 plugins:
   - jekyll-feed
+  - jemoji
 ### The following are suggested by GitHub Pages but seem not work properly.  
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+#  input: Markdown ### no ``` feature
+#  math_engine: mathjax
+#  syntax_highlighter: rouge
 
 # theme: jekyll-theme-merlot ### added by GitHub Pages
 
+# markdown: motion-markdown-it
 
 # Exclude from processing.
 # The following items will not be processed, by default.
