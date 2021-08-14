@@ -1,18 +1,41 @@
 ---
 layout: page
-title: About
+title: 關於
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+線性代數從多元一次方程式的解出發，發現這些解所形成的集合在空間中就是一個點、
+一條線、或是一個面、不外乎都是跟 $\mathbb{R}^d$ 長得一樣的結構，因而發展出
+線性空間。而每一個線性空間都所謂的「基底」來充當它的座標軸，這些座標軸告訴你
+往右兩步、往上三步，就可以走到某一點，而每一點也可以唯一地被這些分量表示出來
+。不只如此，同一個空間可以有不同的基底，這些基底提供了本質一樣但不一樣的觀點
+，藉由基底的轉換，造就了對角化、SVD 分解等漂亮的結果。  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+線性代數為高等數學的各分支提供了完整的工具：微樍分裡用矩陣來逼近多變數函數的
+局部性質，微分方程利用行列式來判斷解的獨立性，表現理論用矩陣來具體化各種代數
+結構；同時線性代數也解決了真實世界的許多難題：JPEG 的影像壓縮用到了快速傅立
+葉轉換、傳染病的散播模型用到了馬可夫鍊和轉移矩陣、資料分析中的 PCA 利用到 SVD
+分解、而類神經網路的每一層神經傳導也仰賴線性變換。如此理論優美、應用廣泛的學
+科，我們相信它值得我們共同推廣，讓每一個需要它的人都有友善的學習空間。  
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+網路上介紹線性代數的文章有很多，大多數是個人或是少數人用心經營的成果，然而每
+個人的時間和精力有限，熱情難免慢慢消磨降低。這個網站希望集合大家的力量不斷更
+新，介紹各種深度的理論、提供不同觀點甚至是獨門心法、分享各領域的應用，藉此慢
+慢形成全方位的學習資源網。我們期望網站收錄的文章有以下特性：
+
+- 唾手可得：每篇閱讀時間大約在 20 分鐘上下。睡前、通勤時間不知道要幹什麼嗎？
+來杯 LA Tea 吧！
+- 不同觀點：不論是學生、學者，都歡迎投稿。不喜歡教授的解釋方式嗎？幫忙寫篇 LA
+Tea 來造福你的同學吧！
+- 理論與應用：理論支持應用，應用帶動理論﹐可以有所偏好，但沒有一樣應該被放棄
+。受夠自己科系只講理論或只講應用的課程了嗎？把你會的分享給其它科系的學生吧﹗
+在理論與應用這個光譜上﹐多方的參與會讓你找到適合自己的位子。
+
+如果你對某些觀念或應用有自己的想法，都歡迎投稿。
+
+目前這個網站的管理員是 [Jephian Lin](https://jephianlin.github.io/)。但長
+期來說，希望這個網站能夠更走向自由軟體的經營模式，有自願的管理群、審稿群、更
+重要的是不斷培育優秀的數學寫手。如果你認同網站的理念、或是有任何建議，歡迎與
+Jephian 聊聊 :smiley:。
 
 
-[jekyll-organization]: https://github.com/jekyll
