@@ -5,6 +5,31 @@ date:   2021-08-09 14:24:06 +0800
 categories: jekyll update
 ---
 
+### Jephian's testing area
+
+Inline math: $x^2$ or \\(y^2\\) or $\R$.
+
+Macro can be defined in `macros` variable in the script or defined through `$\gdef$` inside the content.  
+$\gdef\be{\bf e}$
+Here $\R$ is defined by `macros` , while $\be$ is defined by `$\gdef$` .
+
+The display math is also available by  
+
+$$A = \begin{bmatrix}
+ 1 & 2 \\
+ 3 & 4
+\end{bmatrix}.$$
+
+Code block
+```python
+from manim import *
+class Test(Scene):
+    square = Square()
+    self.play(Create(square))
+```
+
+### Original content of this page
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
@@ -22,21 +47,6 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
-
-I want to see some inline math like $x^2$ or \\(y^2\\) or $\R$.
-
-Macro can be defined in `macros` variable in the script or defined through `$\gdef$` inside the content.  
-$\gdef\be{\bf e}$
-Here $\R$ is defined by `macros` , while $\be$ is defined by `$\gdef$` .
-
-
-
-The display math is also available by  
-
-$$A = \begin{bmatrix}
- 1 & 2 \\
- 3 & 4
-\end{bmatrix}.$$
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
