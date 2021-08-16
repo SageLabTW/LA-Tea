@@ -32,6 +32,13 @@ url: https://sagelabtw.github.io # the base hostname & protocol for your site, e
 github_username: SageLabTW
 google_analytics: G-FNXMX6MK2F
 
+header_pages:
+  - index.markdown
+  - essay.md
+  - practice.md
+  - style.md
+  - about.markdown
+
 # Build settings
 theme: minima
 plugins:
