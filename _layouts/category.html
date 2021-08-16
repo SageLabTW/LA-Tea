@@ -1,0 +1,47 @@
+---
+layout: default
+---
+
+<div class="category-list">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }} 
+
+  <!-- copied from _layout/home.html -->
+  {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.categories[page.category-name] -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      <span class="post-meta">{{ post.date | date: date_format }} by {{ post.authors }}</span> <!-- add by authors -->
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+      {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+
+</div>
+
+
+<!-- copied from https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins -->
+<!-- 
+<div class="blog list">
+    <h1>Filed Under <small>#{{ page.tag }}</small></h1>
+
+    {% for post in site.categories[page.tag] %}
+        {% include post_preview.html %}
+    {% endfor %}
+</div>
+-->
+
+
