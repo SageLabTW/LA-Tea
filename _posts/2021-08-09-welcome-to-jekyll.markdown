@@ -7,26 +7,74 @@ categories: jekyll update
 
 ### Jephian's testing area
 
-Inline math: $x^2$ or \\(y^2\\) or $\R$.
+#### Inline math:
 
-Macro can be defined in `macros` variable in the script or defined through `$\gdef$` inside the content.  
-$\gdef\be{\bf e}$
-Here $\R$ is defined by `macros` , while $\be$ is defined by `$\gdef$` .
+- `$$x^2$$`: $$x^2$$ (the only correct way for kramdown...)
+- `$x^2$`: $x^2$ (content might be parsed by kramdown)
+- `\\(x^2\\)`: \\(x^2\\) (content might be parsed by kramdown)
+- `<span markdown=0>$x^2$</span>`: <span markdown=0>$x^2$</span> (passing raw code)
 
-The display math is also available by  
+or `<div display="inline" markdown=0>$x^2$</div>` to make
+<div display="inline" markdown=0>$x^2$</div>
+(which is not necessary).
+
+
+#### Display math:
+
+`blank line + $$display math$$ + blank line` (kramdown way)
 
 $$A = \begin{bmatrix}
  1 & 2 \\
  3 & 4
 \end{bmatrix}.$$
 
-Code block
+at the beginning of a line do `<div>\[display math\]</div>` (row code)
+<div>\[A = \begin{bmatrix}
+ 1 & 2 \\
+ 3 & 4
+\end{bmatrix}.\]</div>
+
+- inside a list: at the beginning of a line do `indent <div>\[display math\]</div>` (row code)
+    <div>\[A = \begin{bmatrix}
+ 1 & 2 \\
+ 3 & 4
+\end{bmatrix}.\]</div>
+
+Anywhere do `<span display:"block" markdown=0>\[display math\]</div>` (row code, faked inline element)  
+Consider the matrix <span display="block" markdown=0>\[A = \begin{bmatrix}
+ 1 & 2 \\
+ 3 & 4
+\end{bmatrix}.\]</span>
+
+
+#### Macro:
+
+- defined by `macros` in the head tag: $\R$
+- defined by `$\gdef\teste{\mathbf{e}}$`: $\gdef\teste{\mathbf{e}}$ $\teste$
+- defined by `$\newcommand{\testf}{\mathbf{f}}$`: $\newcommand{\testf}{\mathbf{f}}$ $\testf$  
+(This part need to set `globalGroup: true` in KaTeX setting.)
+
+
+#### Code block
+
 ```python
 from manim import *
 class Test(Scene):
     square = Square()
     self.play(Create(square))
 ```
+
+#### Line wrap
+
+(no space after)
+(one space after) 
+(two space after)  
+last line
+
+沒空格
+一個空格 
+兩個空格  
+最後一行
 
 ### Original content of this page
 
