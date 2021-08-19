@@ -20,4 +20,19 @@
 
   </body>
 
+<!-- after loaded, replace non-ascii + \n + non-ascii with non-ascii + non-ascii -->
+<script>
+let tagnames = ["p", "li"];
+for (let name of tagnames) {
+//     console.log("name", name);
+    let target_tags = document.getElementsByTagName(name)
+    for (let i = 0; i < target_tags.length; i++) {
+        let str = target_tags[i].innerHTML;
+//         console.log(i, typeof(str), str.match(/([^\x00-\x7F])\n([^\x00-\x7F])/g));
+        target_tags[i].innerHTML = str.replace(/([^\x00-\x7F])\n([^\x00-\x7F])/g, "$1$2");
+        
+    }
+}
+</script>
+  
 </html>
