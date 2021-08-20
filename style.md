@@ -86,7 +86,7 @@ LA Tea 網站目前使用 KaTeX 來做數學排版，可以到 [KaTeX: Supported
 | 轉置 | `\trans` | $\trans$ | |
 | 內積 | `\inp{\bx}{\by}` | $\inp{\bx}{\by}$ | |
 | 互斥聯集 | `\dunion` | $\dunion$ | |
-| 向量 | `\bzero, \bone, \bx` | $\bzero, \bone, \bx$ | 還有 $\by\bu\bv$ |
+| 向量 | `\bzero, \bone, \bx` | $\bzero, \bone, \bx$ | 還有 $\by\bu\bv\bw$ |
 
 函數系列
 
