@@ -43,11 +43,6 @@ title: 風格指引
 
 ## Markdown
 
-在文章中可以適時加入不同的文字格式，像是**粗體**、_斜體_、或是以
-
-- 條列形式呈現。
-- 可以參考 [CommonMark: Markdown Reference](https://commonmark.org/help/)。
-
 ```md
 在文章中可以適時加入不同的文字格式，像是**粗體**、_斜體_、或是以
 
@@ -55,14 +50,20 @@ title: 風格指引
 - 可以參考 [CommonMark: Markdown Reference](https://commonmark.org/help/)。
 ```
 
+在文章中可以適時加入不同的文字格式，像是**粗體**、_斜體_、或是以
+
+- 條列形式呈現。
+- 可以參考 [CommonMark: Markdown Reference](https://commonmark.org/help/)。
+
 另外注意在 Markdown 語法中，必須要在每行結尾留下**兩個半形空格**才能強制換行。
 或者留**一個空白行**來開啟新的段落。
+
 
 ## LaTeX
 
 利用 `$...$` 來進入隨文數式，利用 空白行 + `$$...$$` + 空白行 來進入展示數式。
 
-```
+```latex
 當 $x$ 為一實變數時，方程式
 
 $$x^2 + 2x + 3 = 0$$
@@ -85,15 +86,16 @@ LA Tea 網站目前使用 KaTeX 來做數學排版，可以到 [KaTeX: Supported
 
 | 名稱 | 原始碼 | 排版結果 | 附註 |
 |---:|---|---|---|
-| 轉置 | `\trans` | $\trans$ | |
+| 轉置 | `A\trans` | $A\trans$ | |
 | 內積 | `\inp{\bx}{\by}` | $\inp{\bx}{\by}$ | |
 | 互斥聯集 | `\dunion` | $\dunion$ | |
-| 向量 | `\bzero, \bone, \bx` | $\bzero, \bone, \bx$ | 還有 $\by\bu\bv\bw$ |
+| 向量 | `\bzero, \bone, \bx` | $\bzero, \bone, \bx$ | 還有 $\ba\bb\bp\bq\by\bu\bv\bw$ |
 
 函數系列
 
 | 名稱 | 原始碼 | 排版結果 | 附註 |
 |---:|---|---|---|
+| 生成 | `\span(S)` | $\span(S)$ | |
 | 核數 | `\nul(A)` | $\nul(A)$ | |
 | 秩 | `\rank(A)` | $\rank(A)$ | |
 | 核 | `\ker(A)` | $\ker(A)$ | $\LaTeX$ 內建|
@@ -102,8 +104,105 @@ LA Tea 網站目前使用 KaTeX 來做數學排版，可以到 [KaTeX: Supported
 | 列空間 | `\Row(A)` | $\Row(A)$ | |
 | 特徵值 | `\spec(A)` | $\spec(A)$ | |
 
+以下是一些例子：
 
+**上下標、分數、根號**
 
+```latex
+當 $x_0 = \frac{1}{\sqrt{2}}$ 時，$x_0^2 = \frac{1}{2}$。
+```
+
+當 $x_0 = \frac{1}{\sqrt{2}}$ 時，$x_0^2 = \frac{1}{2}$。
+
+---
+
+**乘號、集合**
+
+```latex
+若 $A$ 是一個 $m\times n$ 矩陣，則
+
+$$\{\bx \in \mathbb{R}^n \mid A\bx = \bzero\}$$
+
+是一個 $\mathbb{R}^n$ 中的線性子空間。
+```
+
+若 $A$ 是一個 $m\times n$ 矩陣，則
+
+$$\{\bx \in \mathbb{R}^n \mid A\bx = \bzero\}$$
+
+是一個 $\mathbb{R}^n$ 中的線性子空間。
+
+---
+
+**依條件定義函數**
+
+```latex
+$$f(x) = \begin{cases}
+ 1 & \text{if }x\in\mathbb{Q}, \\
+ 0 & \text{otherwise}.
+\end{cases}$$
+```
+
+$$f(x) = \begin{cases}
+ 1 & \text{if }x\in\mathbb{Q}, \\
+ 0 & \text{otherwise}.
+\end{cases}$$
+
+---
+
+**方程式、矩陣**
+
+```latex
+方程式
+
+$$\begin{aligned}
+ x + 2y &= 3 \\
+ 4x + 5y &= 6
+\end{aligned}$$
+
+可以改寫成 $A\bx = \bb$，其中
+
+$$A = \begin{bmatrix}
+ 1 & 2 \\
+ 4 & 5
+\end{bmatrix},
+b = \begin{bmatrix} 3 \\ 6 \end{bmatrix}.$$
+```
+
+方程式
+
+$$\begin{aligned}
+ x + 2y &= 3 \\
+ 4x + 5y &= 6
+\end{aligned}$$
+
+可以改寫成 $A\bx = \bb$，其中
+
+$$A = \begin{bmatrix}
+ 1 & 2 \\
+ 4 & 5
+\end{bmatrix},
+b = \begin{bmatrix} 3 \\ 6 \end{bmatrix}.$$
+
+---
+
+**增廣矩陣**
+
+```latex
+上述方程的增廣矩陣可以寫成
+
+$$\left[\begin{array}{cc|c}
+ 1 & 2 & 3 \\
+ 4 & 5 & 6
+\end{array}\right].$$
+```
+
+上述方程的增廣矩陣可以寫成
+
+$$\left[\begin{array}{cc|c}
+ 1 & 2 & 3 \\
+ 4 & 5 & 6
+\end{array}\right].$$
 
 
 
