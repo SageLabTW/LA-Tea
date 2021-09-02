@@ -87,6 +87,7 @@ LA Tea 網站目前使用 KaTeX 來做數學排版，可以到 [KaTeX: Supported
 | 名稱 | 原始碼 | 排版結果 | 附註 |
 |---:|---|---|---|
 | 轉置 | `A\trans` | $A\trans$ | |
+| 伴隨矩陣 | `A\adj` | $A\adj$ | adjugate |
 | 內積 | `\inp{\bx}{\by}` | $\inp{\bx}{\by}$ | |
 | 互斥聯集 | `\dunion` | $\dunion$ | |
 | 向量 | `\bzero, \bone, \bx` | $\bzero, \bone, \bx$ | 還有 $\ba\bb\bp\bq\by\bz\bu\bv\bw$ |
@@ -95,6 +96,7 @@ LA Tea 網站目前使用 KaTeX 來做數學排版，可以到 [KaTeX: Supported
 
 | 名稱 | 原始碼 | 排版結果 | 附註 |
 |---:|---|---|---|
+| 跡 | `\tr(A)` | $\tr(A)$ | |
 | 生成 | `\span(S)` | $\span(S)$ | |
 | 核數 | `\nul(A)` | $\nul(A)$ | |
 | 秩 | `\rank(A)` | $\rank(A)$ | |
