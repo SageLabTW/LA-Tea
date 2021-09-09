@@ -88,6 +88,7 @@ LA Tea 網站目前使用 KaTeX 來做數學排版，可以到 [KaTeX: Supported
 |---:|---|---|---|
 | 轉置 | `A\trans` | $A\trans$ | |
 | 伴隨矩陣 | `A\adj` | $A\adj$ | adjugate |
+| 餘因子矩陣 | `A\cof` | $A\cof$ | cofactor matrix |
 | 內積 | `\inp{\bx}{\by}` | $\inp{\bx}{\by}$ | |
 | 互斥聯集 | `\dunion` | $\dunion$ | |
 | 向量 | `\bzero, \bone, \bx` | $\bzero, \bone, \bx$ | 還有 $\ba\bb\bp\bq\by\bz\bu\bv\bw$ |
