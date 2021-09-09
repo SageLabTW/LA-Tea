@@ -27,4 +27,4 @@ layout: home
 
 ## 風格指引
 
-請參考 [互助練功區模版](https://hackmd.io/rT95TJNjRRy9gIE-b3K5gg?both) 以及 [風格指引](style.html)。
+請參考 [小品模版](https://hackmd.io/2gl-3u3gTKCSk0ZUlRabrw?both)、[互助練功區模版](https://hackmd.io/rT95TJNjRRy9gIE-b3K5gg?both) 以及 [風格指引](style.html)。
