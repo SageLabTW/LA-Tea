@@ -28,6 +28,8 @@ email: jephianlin [at] gmail [dot] com
 description: >- # this means to ignore newlines until "baseurl:"
   利用喝杯茶的時間，來聊點線性代數吧！
 baseurl: /LA-Tea # the subpath of your site, e.g. /blog
+# assets:
+#  baseurl: /LA-Tea/assets
 url: https://sagelabtw.github.io # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: ""
 github_username: SageLabTW
