@@ -1,3 +1,5 @@
+**Please ignore this README file and visit [LA Tea website](https://sagelabtw.github.io/LA-Tea/) instead.**
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SageLabTW/LA-Tea/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
