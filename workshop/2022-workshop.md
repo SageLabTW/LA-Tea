@@ -14,8 +14,8 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 ## 活動資訊
 
-- 時間：暫訂為 2/12（六）, 2022
-- 地點：暫訂為 國立中山大學 理學院 SC4009-0
+- 時間：2/26（六）, 2022
+- 地點：國立中山大學 理學院 SC4009-0
 - 對象：主要為大學生，但歡迎所有人參加。
 - 報名網址：[請點此報名](https://docs.google.com/forms/d/e/1FAIpQLScp3kk-43DeE0gy5NxyMzU1mNHhKGo83f4J56TcM9qMMVNhrA/viewform?usp=sf_link){:target="_blank"}。
 
