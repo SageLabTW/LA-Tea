@@ -25,7 +25,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 - 1:00 報到、茶會
 - 1:20 開幕
-- 2:00 **講者：許峻彥**  
+- 1:30 **講者：許峻彥**  
 <a style="visibility:hidden">x:00 </a>講題：在二次形中求極值 &mdash; Rayleigh quotient  
 <a style="visibility:hidden">x:00 </a>大綱、參考資料
 - 2:00 **講者：李翊誠**  
