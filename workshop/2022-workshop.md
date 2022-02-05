@@ -47,9 +47,15 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </ol>
     </details>
     </div>
-- 3:00 **講者：朱立民**  
-<a style="visibility:hidden">x:00 </a>講題：對角化的應用  
-<a style="visibility:hidden">x:00 </a>大綱、參考資料
+- <span style="display: inline-block; width:3em;">3:00</span>**講者：朱立民**
+    <div style="padding-left:3em;">
+    講題：空間中必有垂直基底 &mdash; QR decomposition  
+    <details>
+    <summary>
+    大綱、參考資料
+    </summary>
+    <p>對角化，一開始動機在於讓一個可對角的矩陣可以和對角矩陣相似，那到底對角化可以做什麼，我們這次會討論它的應用，過程中我們會學到如何表示一個數學常數的次方為矩陣，例：$e^A$。也學會如何利用對角化解微分方程的問題。最後利用對角化將複雜的二次曲線在新的基底下表示成簡單的二次多項式，也就是將 $xy$ 項消掉。</p>
+    </details>
 - 3:30 **講者：陳泯儒**  
 <a style="visibility:hidden">x:00 </a>講題：在不可逆的矩陣上求反矩陣 &mdash; pseudoinverse  
 <a style="visibility:hidden">x:00 </a>大綱、參考資料
