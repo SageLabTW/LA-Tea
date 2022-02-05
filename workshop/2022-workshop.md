@@ -49,7 +49,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </div>
 - <span style="display: inline-block; width:3em;">3:00</span>**講者：朱立民**
     <div style="padding-left:3em;">
-    講題：空間中必有垂直基底 &mdash; QR decomposition  
+    講題：對角化的應用
     <details>
     <summary>
     大綱、參考資料
