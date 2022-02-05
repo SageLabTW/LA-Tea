@@ -31,9 +31,22 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 - 2:00 **講者：李翊誠**  
 <a style="visibility:hidden">x:00 </a>講題：迭代法求特徵值 &mdash; power method  
 <a style="visibility:hidden">x:00 </a>大綱、參考資料
-- 2:30 **講者：林其璜**  
-<a style="visibility:hidden">x:00 </a>講題：空間中必有垂直基底 &mdash; QR decomposition  
-<a style="visibility:hidden">x:00 </a>大綱、參考資料
+- <span style="display: inline-block; width:3em;">2:30</span>**講者：林其璜**
+    <div style="padding-left:3em;">
+    講題：空間中必有垂直基底 &mdash; QR decomposition  
+    <details>
+    <summary>
+    大綱、參考資料
+    </summary>
+    <p>$QR$ 分解是一種矩陣分解方法，能夠將任意矩陣 $A$ 分解成一個正交矩陣 $Q$ 與一個上三角矩陣 $R$ 之積，透過觀察 $Q$ 與 $R$ 矩陣，我們能夠快速的了解原矩陣 $A$ 的行空間所具有的一些性質。</p>
+    <p>求解 $QR$ 分解有許多方法，其中利用 <strong>Gram&ndash;Schmidt 正交化</strong> 進行求解是我認為最直觀且最具幾何意義的方法，本次演講旨在利用簡單易懂的方式講解 Gram&ndash;Schmidt 正交化，並期待同學在理解此方法後能夠對 $QR$ 分解產生直觀的了解。</p>
+    <p>參考資料</p>
+    <ol>
+    <li><a href="https://zh.wikipedia.org/wiki/QR%E5%88%86%E8%A7%A3">QR分解 - 維基百科</a></li>
+    <li><a href="https://www.itread01.com/content/1544879282.html">淺談矩陣分解以及應用 - IT閱讀</a></li>
+    </ol>
+    </details>
+    </div>
 - 3:00 **講者：朱立民**  
 <a style="visibility:hidden">x:00 </a>講題：對角化的應用  
 <a style="visibility:hidden">x:00 </a>大綱、參考資料
