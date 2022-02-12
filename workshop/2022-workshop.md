@@ -32,7 +32,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     <summary>
     大綱、參考資料
     </summary>
-    <p>TBA</p>
+    <p>在這次的演講當中，我們會講解什麼是 <strong>Rayleigh quotient</strong>。Rayleigh quotient 是一種推斷特徵值範圍，或者尋找特徵值的一種方法。在這次的演講當中，我會一步步的帶大家了解它是如何運作，並且學會如何使用它。接著還會講到一些有關於 Rayleigh quotient 的應用。</p>
     </details>
 - <span style="display: inline-block; width:3em;">2:00</span>**講者：李翊誠**  
     <div style="padding-left:3em;">
