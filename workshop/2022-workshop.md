@@ -2,6 +2,10 @@
 title: 2022 第一屆 LA Tea 工作坊
 ---
 
+<div>
+<img id="qr" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="qr-2022.png" alt="QR code to this website">
+</div>
+
 ## 說明
 
 數學訓練的本質不在於學會它的技術，而在於培養自己對各種概念的敏銳度、以及學會用不同面向來看問題。
