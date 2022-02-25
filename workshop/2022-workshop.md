@@ -86,7 +86,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 | 座談 \ 主題 | 數學   | 統計   | 資工   | 出國讀書 |
 |----------:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊]() | [相關資訊](https://hackmd.io/sF_ql8AtRNOZYwqMONLSSQ?view) | [相關資訊]() | [相關資訊]() |
+|           | [相關資訊](https://docs.google.com/document/d/1rQjXbWgd8zjA_fUPl6LsfVK48jNKmo1TK-XG9N1ZI0k/edit?usp=sharing) | [相關資訊](https://hackmd.io/sF_ql8AtRNOZYwqMONLSSQ?view) | [相關資訊](https://docs.google.com/document/d/1eUwn7WT-8LZOWpUEKodYxt2qAVxdPmMRx_HsF0BZjVE/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/135tBIzsfg4toR9SSuYjZ8e4c-2Y9tW0_Zx0r5Rhjvz8/edit?usp=sharing) |
 | 團體座談   | 陳泯儒 | 徐浩雲 | 林其璜 | 林崇文 |
 | 分組座談   | 許峻彥 | 洪卉芬 | 朱立民 |       |
 |           |       |       | 李翊誠 |       |
