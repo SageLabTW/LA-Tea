@@ -38,6 +38,8 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 **每場演講均為 20 分鐘，結束後有 10 分鐘的討論、休息時間**
 
+[演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYngA_GpXQAF2spL5vRThaC9)
+
 - <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
 - <span style="display: inline-block; width:3em;">1:20</span>開幕
 - <span style="display: inline-block; width:3em;">1:30</span>**講者：許峻彥**  
