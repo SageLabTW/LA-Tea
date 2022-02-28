@@ -60,6 +60,10 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </summary>
     <p><strong>Power Method</strong> 是一種尋找矩陣特徵向量的方法，在這次的分享中我會提到它的運作方式，並且證明它的原理。再來我們會分析一下它的優缺點，以及除了 Power Method 以外還有那些常見的尋找特徵向量的演算法。</p>
     <p>之後會和大家探討為何我們需要設計方法去找特徵向量，它有什麼應用？最後再點出 Google 搜尋背後的 <strong>PageRank Algorithm</strong> 和「尋找特徵向量」之間的關連性，希望同學們能夠理解到之中的原理。</p>
+    <p>參考資料</p>
+    <ol>
+    <li><a href="https://hackmd.io/@EWx9gzUbSg-mpTIcL2mJsg/B1r4x8bCY">演講投影片</a></li>
+    </ol>
     </details>
 - <span style="display: inline-block; width:3em;">2:30</span>**講者：林其璜**
     <div style="padding-left:3em;">
