@@ -143,7 +143,7 @@ spicy: 3
 
 我們在這邊補充一個小知識：
 
-<div class="theorem">
+<div class="theorem" style="text-align: center;">
 <p>
     &emsp;&emsp;While $G$ is a $k$-regular graph, then $\lambda_1 = k$.
 </p>
