@@ -12,9 +12,8 @@ spicy: 3
         border:  2px solid rgb(100, 100, 100);
         border-radius: 6px;
     }
-    p.innerText{
-        margin-left: 40px;
-        background-color: rgb(230, 230, 0);
+    div.theorem p{
+        margin: 20px;
     }
 </style>
 
@@ -24,12 +23,11 @@ spicy: 3
 
 <div class="theorem">
 <p>
-&emsp;&emsp;Suppose that $G$ is a $k$-regular graph, then
-</p>
-    
+Suppose that $G$ is a $k$-regular graph, then
 <div>\[
     \alpha(G) \leq \frac{n}{1-\frac{k}{\lambda_n}}.
 \]</div>  
+</p>
 </div>
 
 其中有許多符號及定義，我們先一一解釋：
@@ -145,7 +143,8 @@ spicy: 3
 
 <div class="theorem" style="text-align: center;">
 <p>
-    &emsp;&emsp;While $G$ is a $k$-regular graph, then $\lambda_1 = k$.
+
+While $G$ is a $k$-regular graph, then $\lambda_1 = k$.
 </p>
 </div>
 
@@ -177,11 +176,10 @@ spicy: 3
 
 <div class="theorem">
 <p>
-&emsp;&emsp;Suppose that $G$ is a $k$-regular graph, then
-</p>
-    
+Suppose that $G$ is a $k$-regular graph, then
 <div>\[
     \alpha(G) \leq \frac{n}{1-\frac{\lambda_1}{\lambda_n}}.
 \]</div>  
+</p>
 </div>
 
