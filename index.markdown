@@ -26,7 +26,7 @@ _如果你想收到 LA Tea 活動的相關訊息，請填 [表單](https://docs.
 [2022](workshop/2022-workshop.html)
 
 
-## [LA Tea 讀書會](seminar/2021F-seminar.html)
+## [LA Tea 讀書會](seminar/2023S-seminar.html)
 
 我們將利用**每週三下午 4:10 ~ 5:00** 的時間定期討論線性代數相關的主題。
 主要內容是課堂上沒空教、但不見得很難的題材；
@@ -39,7 +39,8 @@ _如果你想收到 LA Tea 活動的相關訊息，請填 [表單](https://docs.
 
 ### 歷屆讀書會內容
 
-[2021F](seminar/2021F-seminar.html)
+[2023S](seminar/2023S-seminar.html), [2022F](seminar/2022F-seminar.html)  
+[2022S](seminar/2022S-seminar.html), [2021F](seminar/2021F-seminar.html)
 
 ## 文章分類
 
