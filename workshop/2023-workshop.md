@@ -32,7 +32,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 ## 活動資訊
 
-- 時間：<span style="color:red;">3/?? TBA</span>（六）, 2023
+- 時間：4/15（六）, 2023
 - 地點：國立中山大學 理學院 SC4009-1
 - 對象：主要為大學生，但歡迎所有人參加。
 - 報名網址：[請點此報名](https://docs.google.com/forms/d/e/1FAIpQLSd9PSF1aBP2t77BOOeHRCeUFSLXaskywGt0yuvZq43hq7UpOw/viewform?usp=sf_link){:target="_blank"}。
@@ -41,81 +41,74 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 **每場演講均為 20 分鐘，結束後有 10 分鐘的討論、休息時間**
 
+<!--
 <span style="color:red;">詳細議程待更新</span>
+-->
 
 <!-- after -->
 <!--
 [演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYngA_GpXQAF2spL5vRThaC9)
 -->
 
-<!--
+
+劉芹榕 Perron&ndash;Frobenius theorem
+葉覺文 正定矩陣與 Rayleigh quotient
+杜惟翔 如何在歐氏空間中實現點與點之間的距離
+張笛 Householder 矩陣及其應用
+
+高念慈
+杜惟翔
+
+
 - <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
 - <span style="display: inline-block; width:3em;">1:20</span>開幕
-- <span style="display: inline-block; width:3em;">1:30</span>**講者：許峻彥**  
+- <span style="display: inline-block; width:3em;">1:30</span>**講者：劉芹榕**
     <div style="padding-left:3em;">
-    講題：在二次形中求極值 &mdash; Rayleigh quotient
+    講題：Perron&ndash;Frobenius theorem
+    <!--
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>在這次的演講當中，我們會講解什麼是 <strong>Rayleigh quotient</strong>。Rayleigh quotient 是一種推斷特徵值範圍，或者尋找特徵值的一種方法。在這次的演講當中，我會一步步的帶大家了解它是如何運作，並且學會如何使用它。接著還會講到一些有關於 Rayleigh quotient 的應用。</p>
+    <p><span style="color:red;">TBA</span></p>
     </details>
-- <span style="display: inline-block; width:3em;">2:00</span>**講者：李翊誠**  
+    -->
+- <span style="display: inline-block; width:3em;">2:00</span>**講者：葉覺文**   
     <div style="padding-left:3em;">
-    講題：迭代法求特徵值 &mdash; power method
+    講題：正定矩陣與 Rayleigh quotient
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p><strong>Power Method</strong> 是一種尋找矩陣特徵向量的方法，在這次的分享中我會提到它的運作方式，並且證明它的原理。再來我們會分析一下它的優缺點，以及除了 Power Method 以外還有那些常見的尋找特徵向量的演算法。</p>
-    <p>之後會和大家探討為何我們需要設計方法去找特徵向量，它有什麼應用？最後再點出 Google 搜尋背後的 <strong>PageRank Algorithm</strong> 和「尋找特徵向量」之間的關連性，希望同學們能夠理解到之中的原理。</p>
-    <p>參考資料</p>
-    <ol>
-    <li><a href="https://hackmd.io/@EWx9gzUbSg-mpTIcL2mJsg/B1r4x8bCY">演講投影片</a></li>
-    </ol>
+    <p><span style="color:red;">TBA</span></p>
     </details>
-- <span style="display: inline-block; width:3em;">2:30</span>**講者：林其璜**
+- <span style="display: inline-block; width:3em;">2:30</span>**講者：杜惟翔**
     <div style="padding-left:3em;">
-    講題：空間中必有垂直基底 &mdash; QR decomposition  
+    講題：如何在歐氏空間中實現點與點之間的距離
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>$QR$ 分解是一種矩陣分解方法，能夠將任意矩陣 $A$ 分解成一個正交矩陣 $Q$ 與一個上三角矩陣 $R$ 之積，透過觀察 $Q$ 與 $R$ 矩陣，我們能夠快速的了解原矩陣 $A$ 的行空間所具有的一些性質。</p>
-    <p>求解 $QR$ 分解有許多方法，其中利用 <strong>Gram&ndash;Schmidt 正交化</strong> 進行求解是我認為最直觀且最具幾何意義的方法，本次演講旨在利用簡單易懂的方式講解 Gram&ndash;Schmidt 正交化，並期待同學在理解此方法後能夠對 $QR$ 分解產生直觀的了解。</p>
-    <p>參考資料</p>
-    <ol>
-    <li><a href="https://zh.wikipedia.org/wiki/QR%E5%88%86%E8%A7%A3">QR分解 - 維基百科</a></li>
-    <li><a href="https://www.itread01.com/content/1544879282.html">淺談矩陣分解以及應用 - IT閱讀</a></li>
-    </ol>
+    <p><span style="color:red;">TBA</span></p>
     </details>
     </div>
-- <span style="display: inline-block; width:3em;">3:00</span>**講者：朱立民**
+- <span style="display: inline-block; width:3em;">3:00</span>**講者：張笛**
     <div style="padding-left:3em;">
-    講題：對角化的應用
+    講題：Householder 矩陣及其應用
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>對角化，一開始動機在於讓一個可對角的矩陣可以和對角矩陣相似，那到底對角化可以做什麼？我們這次會討論它的應用。過程中我們會學到如何表示一個數學常數的次方為矩陣，例：$e^A$。也學會如何利用對角化解微分方程的問題。最後利用對角化將複雜的二次曲線在新的基底下表示成簡單的二次多項式，也就是將 $xy$ 項消掉。</p>
+    <p><span style="color:red;">TBA</span></p>
     </details>
-- <span style="display: inline-block; width:3em;">3:30</span>**講者：陳泯儒**  
-    <div style="padding-left:3em;">
-    講題：在不可逆的矩陣上求反矩陣 &mdash; pseudoinverse
-    <details>
-    <summary>
-    大綱、參考資料
-    </summary>
-    <p>本次演講介紹偽逆矩陣（pseudoinverse）的概念。令 $A$ 為一個 $m\times n$ 矩陣，我們考慮線性函數 $f:\mathbb{R}^n\rightarrow\mathbb{R}^m$，其中 $f(\mathbf{x})=A\mathbf{x}$。我們知道 $A$ 可逆若且唯若 $f$ 可逆。然而，我們可以將 $f$ 的定義域和對應域分別限制在 $A$ 的列空間和行空間。在這樣的限制下，$f$ 必定是一個對射函數。因此我們可以定義線性函數 $f^\dagger:\mathbb{R}^m\rightarrow\mathbb{R}^n$，其中 $f^\dagger$ 在 $A$ 的行空間上為 $f$ 的反函數，而 $f^\dagger$ 在 $A$ 的左零空間上則為零函數。而 $A$ 的偽逆矩陣為 $f^\dagger$ 在標準基底下的矩陣表示法。</p>
-    </details>
-- <span style="display: inline-block; width:3em;">4:00</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）  
+- <span style="display: inline-block; width:3em;">3:30</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）  
 
 | 座談 \ 主題 | 數學   | 統計   | 資工   | 出國讀書 |
 |----------:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊](https://docs.google.com/document/d/1rQjXbWgd8zjA_fUPl6LsfVK48jNKmo1TK-XG9N1ZI0k/edit?usp=sharing) | [相關資訊](https://hackmd.io/sF_ql8AtRNOZYwqMONLSSQ?view) | [相關資訊](https://docs.google.com/document/d/1eUwn7WT-8LZOWpUEKodYxt2qAVxdPmMRx_HsF0BZjVE/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/135tBIzsfg4toR9SSuYjZ8e4c-2Y9tW0_Zx0r5Rhjvz8/edit?usp=sharing) |
-| 團體座談   | 陳泯儒 | 徐浩雲 | 林其璜 | 林崇文 |
-| 分組座談   | 許峻彥 | 洪卉芬 | 朱立民 |       |
-|           |       |       | 李翊誠 |       |
--->
+|           | [相關資訊](https://docs.google.com/document/d/1L0GPGQkTuw913bQx_sPXnxvEds1X4QJYa3dZyGV4PBw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1KxJ5mqCGf0mQpC4-kQazVHRygEGVoBpXP2HjMWjaqHc/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1VZBh_c_V52VN5OX1ty0MkVdKKV3J0h6ZbbUiPLjxvks/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1Nem1kaEOlGplAgQBK4lCzkuL92oqSkv99oXfUI4_Uew/edit?usp=sharing) |
+| 團體座談   | 杜惟翔 | 高念慈 | 顏紫砡 | 顏廷維 |
+| 分組座談   |       | 李昀樵 |       |       |
+|           |       |       |       |       |
+
 
 如對活動有任何疑問，歡迎利用 `jephianlin [at] gmail [dot] com` 與 Jephian Lin  聯絡 :smiley:
