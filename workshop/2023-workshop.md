@@ -63,7 +63,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </details>
 - <span style="display: inline-block; width:3em;">2:00</span>**講者：葉覺文**   
     <div style="padding-left:3em;">
-    講題：正定矩陣與 Rayleigh quotient
+    講題：一種方法判斷正定
     <details>
     <summary>
     大綱、參考資料
