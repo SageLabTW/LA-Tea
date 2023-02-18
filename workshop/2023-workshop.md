@@ -50,29 +50,17 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 [演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYngA_GpXQAF2spL5vRThaC9)
 -->
 
-
-劉芹榕 Perron&ndash;Frobenius theorem
-葉覺文 正定矩陣與 Rayleigh quotient
-杜惟翔 如何在歐氏空間中實現點與點之間的距離
-張笛 Householder 矩陣及其應用
-
-高念慈
-杜惟翔
-
-
 - <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
 - <span style="display: inline-block; width:3em;">1:20</span>開幕
 - <span style="display: inline-block; width:3em;">1:30</span>**講者：劉芹榕**
     <div style="padding-left:3em;">
     講題：Perron&ndash;Frobenius theorem
-    <!--
     <details>
     <summary>
     大綱、參考資料
     </summary>
     <p><span style="color:red;">TBA</span></p>
     </details>
-    -->
 - <span style="display: inline-block; width:3em;">2:00</span>**講者：葉覺文**   
     <div style="padding-left:3em;">
     講題：正定矩陣與 Rayleigh quotient
@@ -105,7 +93,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 | 座談 \ 主題 | 數學   | 統計   | 資工   | 出國讀書 |
 |----------:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊](https://docs.google.com/document/d/1L0GPGQkTuw913bQx_sPXnxvEds1X4QJYa3dZyGV4PBw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1KxJ5mqCGf0mQpC4-kQazVHRygEGVoBpXP2HjMWjaqHc/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1VZBh_c_V52VN5OX1ty0MkVdKKV3J0h6ZbbUiPLjxvks/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1Nem1kaEOlGplAgQBK4lCzkuL92oqSkv99oXfUI4_Uew/edit?usp=sharing) |
+|           | [相關資訊](https://docs.google.com/document/d/1L0GPGQkTuw913bQx_sPXnxvEds1X4QJYa3dZyGV4PBw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1KxJ5mqCGf0mQpC4-kQazVHRygEGVoBpXP2HjMWjaqHc/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1Nem1kaEOlGplAgQBK4lCzkuL92oqSkv99oXfUI4_Uew/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1VZBh_c_V52VN5OX1ty0MkVdKKV3J0h6ZbbUiPLjxvks/edit?usp=sharing) |
 | 團體座談   | 杜惟翔 | 高念慈 | 顏紫砡 | 顏廷維 |
 | 分組座談   |       | 李昀樵 |       |       |
 |           |       |       |       |       |
