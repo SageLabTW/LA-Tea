@@ -68,7 +68,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     <summary>
     大綱、參考資料
     </summary>
-    <p><span style="color:red;">TBA</span></p>
+    <p>令 $A$ 為一對稱矩陣。如果對於任意的非零向量 $\bv$ 都有 $\bv\trans A\bv > 0$，則稱 $A$ 為正定矩陣。但是用這種方式來做驗證一矩陣是否為正定矩陣十分費力，如果令 $A_k$ 為 $A$ 的前 $k$ 列和行所導出的子矩陣，則正定矩陣的另一個等價敘述為每一個 $k = 1,\ldots, n$ 都有 $\det(A_k) > 0$。所以矩陣的正定性可以用主子式的方式來做驗證，但是這個等價敘述不顯然，我們將用柯西交錯定理將其證出。</p>
     </details>
 - <span style="display: inline-block; width:3em;">2:30</span>**講者：杜惟翔**
     <div style="padding-left:3em;">
