@@ -91,12 +91,12 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </details>
 - <span style="display: inline-block; width:3em;">3:30</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）  
 
-| 座談 \ 主題 | 數學   | 統計   | 資工   | 出國讀書 |
-|----------:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊](https://docs.google.com/document/d/1L0GPGQkTuw913bQx_sPXnxvEds1X4QJYa3dZyGV4PBw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1KxJ5mqCGf0mQpC4-kQazVHRygEGVoBpXP2HjMWjaqHc/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1Nem1kaEOlGplAgQBK4lCzkuL92oqSkv99oXfUI4_Uew/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1VZBh_c_V52VN5OX1ty0MkVdKKV3J0h6ZbbUiPLjxvks/edit?usp=sharing) |
-| 團體座談   | 杜惟翔 | 高念慈 | 顏紫砡 | 顏廷維 |
-| 分組座談   |       | 李昀樵 |       |       |
-|           |       |       |       |       |
+| 座談 \ 主題 | 統計   | 資工   | 出國讀書 |
+|----------:|:-----:|:-----:|:-----:|
+|           | [相關資訊](https://docs.google.com/document/d/1KxJ5mqCGf0mQpC4-kQazVHRygEGVoBpXP2HjMWjaqHc/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1Nem1kaEOlGplAgQBK4lCzkuL92oqSkv99oXfUI4_Uew/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1VZBh_c_V52VN5OX1ty0MkVdKKV3J0h6ZbbUiPLjxvks/edit?usp=sharing) |
+| 團體座談   | 高念慈 | 顏紫砡 | 顏廷維 |
+| 分組座談   | 李昀樵 |       |       |
+|           |       |       |       |
 
 
 如對活動有任何疑問，歡迎利用 `jephianlin [at] gmail [dot] com` 與 Jephian Lin  聯絡 :smiley:
