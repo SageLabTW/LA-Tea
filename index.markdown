@@ -23,6 +23,7 @@ _如果你想收到 LA Tea 活動的相關訊息，請填 [表單](https://docs.
 
 ### 歷屆工作坊
 
+[2023](workshop/2023-workshop.html)  
 [2022](workshop/2022-workshop.html)
 
 
