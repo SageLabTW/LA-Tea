@@ -32,7 +32,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 ## 活動資訊
 
-- 時間：<span style="color:red;">5/6</span> ~~4/15~~（六）, 2023
+- 時間：<span style="color:red;">TBA</span> ~~4/15~~（六）, 2023
 - 地點：國立中山大學 理學院 SC4009-1
 - 對象：主要為大學生，但歡迎所有人參加。
 - 報名網址：[請點此報名](https://docs.google.com/forms/d/e/1FAIpQLSd9PSF1aBP2t77BOOeHRCeUFSLXaskywGt0yuvZq43hq7UpOw/viewform?usp=sf_link){:target="_blank"}。
