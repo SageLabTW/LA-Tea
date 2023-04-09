@@ -94,7 +94,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 | 座談 \ 主題 | 統計   | 資工   | 出國讀書 |
 |----------:|:-----:|:-----:|:-----:|
 |           | [相關資訊](https://docs.google.com/document/d/1KxJ5mqCGf0mQpC4-kQazVHRygEGVoBpXP2HjMWjaqHc/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1Nem1kaEOlGplAgQBK4lCzkuL92oqSkv99oXfUI4_Uew/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1VZBh_c_V52VN5OX1ty0MkVdKKV3J0h6ZbbUiPLjxvks/edit?usp=sharing) |
-| 團體座談   | 高念慈 | 顏紫砡 | 顏廷維 |
+| 團體座談   | 高念慈 | 顏紫砡 | 顏廷維 [影片](https://www.youtube.com/watch?v=FESV6zv-G6c) |
 | 分組座談   | 李昀樵 |       |       |
 |           |       |       |       |
 
