@@ -59,17 +59,19 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     <summary>
     大綱、參考資料
     </summary>
-    <p>此定理主要敘述：若矩陣 $T$ 為非負、不可約（irreducible）矩陣，則必有一絕對值最大的的特徵值為正實數，此特徵值具有一些良好的性質，例如：此一特徵值有各項皆正的特徵向量與其對應、此特徵值的代數重數及幾何重數皆為 $1$ 等等。在這次演講中我將逐一介紹，並詳細講解定理的證明，過程中會用到一點分析的性質。</p>
+    <p>此定理主要敘述：若矩陣 $T$ 為非負、不可約（irreducible）矩陣，則必有一絕對值最大的特徵值為正實數，此特徵值具有一些良好的性質，例如：此一特徵值有各項皆正的特徵向量與其對應、此特徵值的代數重數及幾何重數皆為 $1$ 等等。在這次演講中我將逐一介紹，並詳細講解定理的證明，過程中會用到一點分析的性質。</p>
     </details>
+    </div>
 - <span style="display: inline-block; width:3em;">2:00</span>**講者：葉覺文**   
     <div style="padding-left:3em;">
-    講題：一種方法判斷正定
+    講題：一種判斷正定的方法
     <details>
     <summary>
     大綱、參考資料
     </summary>
     <p>令 $A$ 為一對稱矩陣。如果對於任意的非零向量 $\bv$ 都有 $\bv\trans A\bv > 0$，則稱 $A$ 為正定矩陣。但是用這種方式來做驗證一矩陣是否為正定矩陣十分費力，如果令 $A_k$ 為 $A$ 的前 $k$ 列和行所導出的子矩陣，則正定矩陣的另一個等價敘述為每一個 $k = 1,\ldots, n$ 都有 $\det(A_k) > 0$。所以矩陣的正定性可以用主子式的方式來做驗證，但是這個等價敘述不顯然，我們將用柯西交錯定理將其證出。</p>
     </details>
+    </div>
 - <span style="display: inline-block; width:3em;">2:30</span>**講者：杜惟翔**
     <div style="padding-left:3em;">
     講題：如何在歐氏空間中實現點與點之間的距離
@@ -89,7 +91,13 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </summary>
     <p>Householder 矩陣為形如 $H=I-2\bu{\bu}\trans$ 的矩陣，其中 $\|\bu\|_2 = 1$。本次演講將從 Householder 矩陣的性質講起，並希望通過其幾何意義讓同學們對 Householder 矩陣有一個直觀的了解。最後將以一個簡單的例子來展示 Householder 矩陣如何應用在求解矩陣的 $QR$ 分解。</p>
     </details>
-- <span style="display: inline-block; width:3em;">3:30</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）  
+    </div>
+- <span style="display: inline-block; width:3em;">3:30</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）
+- <span style="display: inline-block; width:3em;">4:30</span>閉幕
+    <div style="padding-left:3em;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgXACoQ0FURm-5gAuDwW7PHKBBZ_FP6nxzRxXQkbhPHDVN2g/viewform?usp=sf_link">2023 LA Tea 意見回饋單</a>
+    </div>
+
 
 | 座談 \ 主題 | 統計   | 資工   | 出國讀書 |
 |----------:|:-----:|:-----:|:-----:|

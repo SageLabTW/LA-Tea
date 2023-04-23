@@ -51,6 +51,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </summary>
     <p>在這次的演講當中，我們會講解什麼是 <strong>Rayleigh quotient</strong>。Rayleigh quotient 是一種推斷特徵值範圍，或者尋找特徵值的一種方法。在這次的演講當中，我會一步步的帶大家了解它是如何運作，並且學會如何使用它。接著還會講到一些有關於 Rayleigh quotient 的應用。</p>
     </details>
+    </div>
 - <span style="display: inline-block; width:3em;">2:00</span>**講者：李翊誠**  
     <div style="padding-left:3em;">
     講題：迭代法求特徵值 &mdash; power method
@@ -65,6 +66,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     <li><a href="https://hackmd.io/@EWx9gzUbSg-mpTIcL2mJsg/B1r4x8bCY">演講投影片</a></li>
     </ol>
     </details>
+    </div>
 - <span style="display: inline-block; width:3em;">2:30</span>**講者：林其璜**
     <div style="padding-left:3em;">
     講題：空間中必有垂直基底 &mdash; QR decomposition  
@@ -90,6 +92,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </summary>
     <p>對角化，一開始動機在於讓一個可對角的矩陣可以和對角矩陣相似，那到底對角化可以做什麼？我們這次會討論它的應用。過程中我們會學到如何表示一個數學常數的次方為矩陣，例：$e^A$。也學會如何利用對角化解微分方程的問題。最後利用對角化將複雜的二次曲線在新的基底下表示成簡單的二次多項式，也就是將 $xy$ 項消掉。</p>
     </details>
+    </div>
 - <span style="display: inline-block; width:3em;">3:30</span>**講者：陳泯儒**  
     <div style="padding-left:3em;">
     講題：在不可逆的矩陣上求反矩陣 &mdash; pseudoinverse
@@ -99,6 +102,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </summary>
     <p>本次演講介紹偽逆矩陣（pseudoinverse）的概念。令 $A$ 為一個 $m\times n$ 矩陣，我們考慮線性函數 $f:\mathbb{R}^n\rightarrow\mathbb{R}^m$，其中 $f(\mathbf{x})=A\mathbf{x}$。我們知道 $A$ 可逆若且唯若 $f$ 可逆。然而，我們可以將 $f$ 的定義域和對應域分別限制在 $A$ 的列空間和行空間。在這樣的限制下，$f$ 必定是一個對射函數。因此我們可以定義線性函數 $f^\dagger:\mathbb{R}^m\rightarrow\mathbb{R}^n$，其中 $f^\dagger$ 在 $A$ 的行空間上為 $f$ 的反函數，而 $f^\dagger$ 在 $A$ 的左零空間上則為零函數。而 $A$ 的偽逆矩陣為 $f^\dagger$ 在標準基底下的矩陣表示法。</p>
     </details>
+    </div>
 - <span style="display: inline-block; width:3em;">4:00</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）  
 
 | 座談 \ 主題 | 數學   | 統計   | 資工   | 出國讀書 |
