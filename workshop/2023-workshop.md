@@ -3,13 +3,11 @@ title: 2023 第二屆 LA Tea 工作坊
 ---
 
 <!-- after -->
-<!--
 <div>
-<img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo.JPG" alt="Group photo">
+<img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2023.JPG" alt="Group photo">
 </div>
 
-<h2 style="text-align: center"><a href="https://photos.app.goo.gl/QN12oW3W81QA79Fz5">活動花絮</a></h2>
--->
+<h2 style="text-align: center"><a href="https://photos.app.goo.gl/TqcPkyyCtaFmuJkT6">活動花絮</a></h2>
 
 <details>
 <summary>
@@ -46,9 +44,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 -->
 
 <!-- after -->
-<!--
-[演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYngA_GpXQAF2spL5vRThaC9)
--->
+[演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYmb8ZoQCITqfvcls1P1e3o7)
 
 - <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
 - <span style="display: inline-block; width:3em;">1:20</span>開幕
