@@ -3,7 +3,9 @@ title: 2022 第一屆 LA Tea 工作坊
 ---
 
 <div>
-<img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2022.JPG" alt="Group photo">
+  <a href="group-photo-2022-raw.JPG">
+    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2022.JPG" alt="Group photo">
+  </a>
 </div>
 
 <h2 style="text-align: center"><a href="https://photos.app.goo.gl/QN12oW3W81QA79Fz5">活動花絮</a></h2>
