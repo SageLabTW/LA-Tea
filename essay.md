@@ -16,3 +16,13 @@ category-name: essay
 - adjugate
 - 穩定態的森林公式
 
+
+## 其它
+
+- [正定矩陣的二次規劃]({{ site.baseurl }}{% link _posts/2023-07-06-正定矩陣的二次規劃.md %})
+- [無窮維空間對有限維子空間投影]({{ site.baseurl }}{% link _posts/2023-07-07-無窮維空間對有限維子空間投影.md %})
+- [線性迴歸與脊迴歸]({{ site.baseurl }}{% link _posts/2023-07-08-線性迴歸與脊迴歸.md %})
+- [多項式空間中的內積]()
+- 內積、正定矩陣、向量表示法
+- reproducing kernel
+
