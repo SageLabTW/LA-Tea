@@ -1,0 +1,100 @@
+---
+title: 2024 第三屆 LA Tea 工作坊
+---
+
+<!-- after 
+<div>
+  <a href="group-photo-2023-raw.JPG">
+    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2023.JPG" alt="Group photo">
+  </a>
+</div>
+
+<h2 style="text-align: center"><a href="https://photos.app.goo.gl/TqcPkyyCtaFmuJkT6">活動花絮</a></h2>
+-->
+
+<details>
+<summary>
+網站二維條碼
+</summary>
+<div>
+<img id="qr" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="qr-2024.png" alt="QR code to this website">
+</div>
+</details>
+
+## 說明
+
+數學訓練的本質不在於學會它的技術，而在於培養自己對各種概念的敏銳度、以及學會用不同面向來看問題。
+只要邏輯上正確，每個人對數學模型的理解都可以是獨一無二的；而這也是數學美麗的地方。
+LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵學生分享自己的看法。
+五場為大學生設計的演講、搭配學長姊的經驗分享（研究所、出國讀書、找工作等），讓你在努力的路上有人結伴同行。
+欲報從速，歡迎 [點此報名](https://docs.google.com/forms/d/e/1FAIpQLSfozPdZfIWAX68skeKFdrP4QecxqVm1-4nFz07kY0OoXXjLjw/viewform?usp=sf_link){:target="_blank"}。
+
+如果你喜愛線性代數、或是樂於分享自己的想法，[LA Tea 讀書會](../#la-tea-%E8%AE%80%E6%9B%B8%E6%9C%83) 全年招募新血；下一次的講者很有可能就是你！
+
+## 活動資訊
+
+- 時間：5/4（六）, 2024
+- 地點：國立中山大學 理學院 SC4009-1
+- 對象：主要為大學生，但歡迎所有人參加。
+- 報名網址：[請點此報名](https://docs.google.com/forms/d/e/1FAIpQLSfozPdZfIWAX68skeKFdrP4QecxqVm1-4nFz07kY0OoXXjLjw/viewform?usp=sf_link){:target="_blank"}。
+
+## 活動流程
+
+**每場演講均為 20 分鐘，結束後有 10 分鐘的討論、休息時間**
+
+<!--
+<span style="color:red;">詳細議程待更新</span>
+-->
+
+<!-- after 
+[演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYmb8ZoQCITqfvcls1P1e3o7)
+-->
+
+- <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
+- <span style="display: inline-block; width:3em;">1:20</span>開幕
+- <span style="display: inline-block; width:3em;">1:30</span>**講者：TBA**
+    <div style="padding-left:3em;">
+    講題：TBA
+    <details>
+    <summary>
+    大綱、參考資料
+    </summary>
+    <p>TBA</p>
+    </details>
+    </div>
+- <span style="display: inline-block; width:3em;">2:00</span>**講者：TBA**   
+    <div style="padding-left:3em;">
+    講題：TBA
+    <details>
+    <summary>
+    大綱、參考資料
+    </summary>
+    <p>TBA。</p>
+    </details>
+    </div>
+- <span style="display: inline-block; width:3em;">2:30</span>**講者：TBA**
+    <div style="padding-left:3em;">
+    講題：TBA
+    <details>
+    <summary>
+    大綱、參考資料
+    </summary>
+    <p>TBA</p>
+    </details>
+    </div>
+- <span style="display: inline-block; width:3em;">3:00</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）
+- <span style="display: inline-block; width:3em;">4:00</span>閉幕
+    <div style="padding-left:3em;">
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSeEd2TDXzfMT15zSkOEb841BS8iyQiQ4FvmqJztZwWqkgG-AA/viewform?usp=sf_link">2024 LA Tea 意見回饋單</a>
+    </div>
+
+
+| 座談 \ 主題 | 數學   | 教育   | 財經   | 統計   |
+|----------:|:-----:|:-----:|:-----:|:-----:|
+|           | [相關資訊]() | [相關資訊]() | [相關資訊]() | [相關資訊]() |
+| 團體座談    | TBA   | TBA   | TBA   | TBA   |
+| 分組座談    | TBA   | TBA   | TBA   | TBA   |
+|           | TBA   | TBA   | TBA   | TBA   |
+
+
+如對活動有任何疑問，歡迎利用 `jephianlin [at] gmail [dot] com` 與 Jephian Lin  聯絡 :smiley:
