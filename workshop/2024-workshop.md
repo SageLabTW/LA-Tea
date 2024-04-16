@@ -52,24 +52,24 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 - <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
 - <span style="display: inline-block; width:3em;">1:20</span>開幕
-- <span style="display: inline-block; width:3em;">1:30</span>**講者：TBA**
+- <span style="display: inline-block; width:3em;">1:30</span>**講者：陳芃穎**
     <div style="padding-left:3em;">
-    講題：TBA
+    講題：二元線性分類演算法 &mdash; Perceptron Learning Algorithm
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>TBA</p>
+    <p>生活中總有一些事情答案不是 Yes 就是 No，例如要不要買早餐、會不會被教授當或是會不會被公司錄取等。如果這些問題可以用機器學習或是演算法幫你快速決定，那 PLA 就是這項工具！利用訓練 Perceptron 來尋找最完美的權重以做出二元的線性分類。我們將用線性代數的觀點來為 PLA 做一個簡單的介紹。</p>
     </details>
     </div>
-- <span style="display: inline-block; width:3em;">2:00</span>**講者：TBA**   
+- <span style="display: inline-block; width:3em;">2:00</span>**講者：張書鳴**
     <div style="padding-left:3em;">
-    講題：TBA
+    講題：高斯消去法在電腦上的實現及誤差處理方法
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>TBA。</p>
+    <p>高斯消去法是解決線性方程組的常用方法之一。在電腦上實現這個方法需要轉換數學步驟成為可計算的算法。然而，計算機浮點運算可能導致誤差。為處理誤差，我們可以使用 Scale Partial Pivoting 和 Partial Pivoting 兩種方法。前者通過縮放係數矩陣的行來降低誤差，後者則在每步選擇最大的主元素以減少除零錯誤。這兩種方法有助於提高計算準確性，確保高斯消去法在電腦上的應用。</p>
     </details>
     </div>
 - <span style="display: inline-block; width:3em;">2:30</span>**講者：TBA**

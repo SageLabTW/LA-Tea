@@ -15,7 +15,7 @@ layout: home
 _如果你想收到 LA Tea 活動的相關訊息，請填 [表單](https://docs.google.com/forms/d/e/1FAIpQLSdm6wpSxz6u1viI7soClqEEK1gmZEqY1bBisyy2dscEz8RIYQ/viewform?usp=sf_link){:target="_blank"} 訂閱或退訂_
 
 
-## [LA Tea 工作坊](workshop/2023-workshop.html)
+## [LA Tea 工作坊](workshop/2024-workshop.html)
 
 每年二月開學前後，我們將會舉辦 LA Tea 工作坊，提供茶點及適合討論的環境，讓學生分享對線性代數的不同看法和心得。  
 
