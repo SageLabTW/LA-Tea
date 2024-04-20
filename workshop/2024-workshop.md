@@ -89,12 +89,12 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </div>
 
 
-| 座談 \ 主題 | 轉學   | 自主學習 | 統計   | 財經   | 教育   |
+| 座談 \ 主題 | 轉學   | 自主學習 | 統計   | 財經   | 數教/科教 |
 |----------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊]() | [相關資訊]() | [相關資訊]() | [相關資訊]() | [相關資訊]() |
-| 團體座談    | 張書鳴   | TBA   | TBA   | TBA   | TBA   |
-| 分組座談    |       | TBA   | TBA   | TBA   | TBA   |
-|           |       | TBA   | TBA   | TBA   | TBA   |
+|           | [相關資訊]() | [相關資訊]() | [相關資訊]() | [相關資訊]() | [相關資訊](https://docs.google.com/document/d/1nN1uIKPcUnljkAmKchdpPsD1uffSZ5--m-KPBs8IAc0/edit?usp=sharing) |
+| 團體座談    | 張書鳴   | TBA   | TBA   | TBA   |       |
+| 分組座談    |       |       |       |       |       |
+| 資訊分享    |       |       |       |       | :smiley: |
 
 
 如對活動有任何疑問，歡迎利用 `jephianlin [at] gmail [dot] com` 與 Jephian Lin  聯絡 :smiley:
