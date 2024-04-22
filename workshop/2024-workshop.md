@@ -74,7 +74,7 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </div>
 - <span style="display: inline-block; width:3em;">2:30</span>**講者：劉芹榕**
     <div style="padding-left:3em;">
-    講題：如何有效地檢驗結合律
+    講題：一個在集合上的二元運算，會不會有結合律？
     <details>
     <summary>
     大綱、參考資料
