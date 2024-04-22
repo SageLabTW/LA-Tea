@@ -72,14 +72,14 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     <p>高斯消去法是解決線性方程組的常用方法之一。在電腦上實現這個方法需要轉換數學步驟成為可計算的算法。然而，計算機浮點運算可能導致誤差。為處理誤差，我們可以使用 Scale Partial Pivoting 和 Partial Pivoting 兩種方法。前者通過縮放係數矩陣的行來降低誤差，後者則在每步選擇最大的主元素以減少除零錯誤。這兩種方法有助於提高計算準確性，確保高斯消去法在電腦上的應用。</p>
     </details>
     </div>
-- <span style="display: inline-block; width:3em;">2:30</span>**講者：TBA**
+- <span style="display: inline-block; width:3em;">2:30</span>**講者：劉芹榕**
     <div style="padding-left:3em;">
-    講題：TBA
+    講題：如何有效地檢驗結合律
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>TBA</p>
+    <p>考慮一個集合 $X$ 以及其上的一個二元運算 $\odot: X\times X \rightarrow X$，如果對於任何 $X$ 中的元素 $a,b,c$ 都有 $(a \odot b) \odot c = a \odot (b \odot c)$ 的性質，則我們說 $\odot$ 具有結合律。要判斷是否有結合律最麻煩也最簡單的方法就是一組一組的去檢視，當 $|X| = n$ 時，因為要任取 $3$ 個元素檢測，這樣的演算法需要 $O(n^3)$ 的時間；但事實上我們可以透過數學方法找出更有效率的演算法可以節省時間，只是需要冒點機率上的風險，而這風險是我們所能掌握的。主要結果如下：把一個 $n$ 個元素的集合與一個二元運算的表格送進此演算法，每次執行這個程式最多只要 $O(n^2)$ 的時間，其結果會以 yes 或 no 呈現。如果二元運算有結合律，結果只會是 yes；如果沒有結合律，則 yes 為結果的機率最多只有 $\frac{1}{2}$。就讓我們用簡單的線性代數技巧來看看這演算法長什麼樣子。</p>
     </details>
     </div>
 - <span style="display: inline-block; width:3em;">3:00</span>**經驗分享座談**（30 分鐘團體座談、30 分鐘分組座談）
@@ -91,10 +91,10 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 
 | 座談 \ 主題 | 轉學   | 自主學習 | 統計   | 財經   | 數教/科教 |
 |----------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊](https://docs.google.com/document/d/1RJqKCY9tV-Iqszlslzemt-osDV1hLBfbSoWsspJBDgI/edit?usp=sharing) | [相關資訊]() | [相關資訊]() | [相關資訊]() | [相關資訊](https://docs.google.com/document/d/1nN1uIKPcUnljkAmKchdpPsD1uffSZ5--m-KPBs8IAc0/edit?usp=sharing) |
-| 團體座談    | 張書鳴   | TBA   | TBA   | TBA   |       |
+|           | [相關資訊](https://docs.google.com/document/d/1RJqKCY9tV-Iqszlslzemt-osDV1hLBfbSoWsspJBDgI/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1YQJPypD9a-4h1yEL8YWK3k_fFy1kht1NaAq7Ja9aqUE/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/18MAmnUmbHCP3aF9uuiohWR6dWujycHQNQC7nx2Ek5Dw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1oPaVSivwZeMjTBzP2C9kjKGoyIWWZKgFPu_blH20kHg/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1nN1uIKPcUnljkAmKchdpPsD1uffSZ5--m-KPBs8IAc0/edit?usp=sharing) |
+| 團體座談    | 張書鳴 | 傅冠文 |       |       |       |
 | 分組座談    |       |       |       |       |       |
-| 資訊分享    |       |       |       |       | :smiley: |
+| 資訊分享    |       |       | 羅景耀 | 鄭志佑 | :smiley: |
 
 
 如對活動有任何疑問，歡迎利用 `jephianlin [at] gmail [dot] com` 與 Jephian Lin  聯絡 :smiley:
