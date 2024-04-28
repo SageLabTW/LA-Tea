@@ -89,12 +89,12 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
     </div>
 
 
-| 座談 \ 主題 | 轉學   | 自主學習 | 統計   | 財經   | 數教/科教 |
+| 座談 \ 主題 | 轉學   | 自主學習 | 數學   | 統計   | 財經   | 數教/科教 |
 |----------:|:-----:|:-----:|:-----:|:-----:|:-----:|
-|           | [相關資訊](https://docs.google.com/document/d/1RJqKCY9tV-Iqszlslzemt-osDV1hLBfbSoWsspJBDgI/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1YQJPypD9a-4h1yEL8YWK3k_fFy1kht1NaAq7Ja9aqUE/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/18MAmnUmbHCP3aF9uuiohWR6dWujycHQNQC7nx2Ek5Dw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1oPaVSivwZeMjTBzP2C9kjKGoyIWWZKgFPu_blH20kHg/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1nN1uIKPcUnljkAmKchdpPsD1uffSZ5--m-KPBs8IAc0/edit?usp=sharing) |
-| 團體座談    | 張書鳴 | 傅冠文 |       |       |       |
-| 分組座談    |       |       |       |       |       |
-| 資訊分享    |       |       | 羅景耀 | 鄭志佑 | :smiley: |
+|           | [相關資訊](https://docs.google.com/document/d/1RJqKCY9tV-Iqszlslzemt-osDV1hLBfbSoWsspJBDgI/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1YQJPypD9a-4h1yEL8YWK3k_fFy1kht1NaAq7Ja9aqUE/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1IXPlAgq44auxbuJ7m_FUPB3TdDsEoyZQAQfEnlksSt4/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/18MAmnUmbHCP3aF9uuiohWR6dWujycHQNQC7nx2Ek5Dw/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1oPaVSivwZeMjTBzP2C9kjKGoyIWWZKgFPu_blH20kHg/edit?usp=sharing) | [相關資訊](https://docs.google.com/document/d/1nN1uIKPcUnljkAmKchdpPsD1uffSZ5--m-KPBs8IAc0/edit?usp=sharing) |
+| 團體座談    | 張書鳴 | 傅冠文 |       |       |       |       |
+| 分組座談    |       | 張亭瑄 |       |       |       |       |
+| 資訊分享    |       |       | 黃銘宏 | 羅景耀 | 鄭志佑 | :smiley: |
 
 
 如對活動有任何疑問，歡迎利用 `jephianlin [at] gmail [dot] com` 與 Jephian Lin  聯絡 :smiley:
