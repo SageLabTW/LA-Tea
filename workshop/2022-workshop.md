@@ -3,8 +3,8 @@ title: 2022 第一屆 LA Tea 工作坊
 ---
 
 <div>
-  <a href="group-photo-2022-raw.JPG">
-    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2022.JPG" alt="Group photo">
+  <a href="group-photo-2022-raw.jpg">
+    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2022.jpg" alt="Group photo">
   </a>
 </div>
 

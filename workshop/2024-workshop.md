@@ -3,14 +3,14 @@ title: 2024 第三屆 LA Tea 工作坊
 ---
 
 <!-- after 
+-->
 <div>
-  <a href="group-photo-2023-raw.JPG">
-    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2023.JPG" alt="Group photo">
+  <a href="group-photo-2024-raw.jpg">
+    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2024.jpg" alt="Group photo">
   </a>
 </div>
 
-<h2 style="text-align: center"><a href="https://photos.app.goo.gl/TqcPkyyCtaFmuJkT6">活動花絮</a></h2>
--->
+<h2 style="text-align: center"><a href="https://photos.app.goo.gl/jvMoMnMGjyxs3Fsf6">活動花絮</a></h2>
 
 <details>
 <summary>

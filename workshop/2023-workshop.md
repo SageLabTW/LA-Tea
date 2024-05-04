@@ -4,8 +4,8 @@ title: 2023 第二屆 LA Tea 工作坊
 
 <!-- after -->
 <div>
-  <a href="group-photo-2023-raw.JPG">
-    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2023.JPG" alt="Group photo">
+  <a href="group-photo-2023-raw.jpg">
+    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2023.jpg" alt="Group photo">
   </a>
 </div>
 
