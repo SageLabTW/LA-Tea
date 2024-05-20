@@ -47,8 +47,8 @@ LA Tea 工作坊的目標是提供適合大學生聽的演講，同時也鼓勵�
 -->
 
 <!-- after 
-[演講、座談影片](https://youtube.com/playlist?list=PLjjwN6s_CKYmb8ZoQCITqfvcls1P1e3o7)
 -->
+[演講、座談影片](https://www.youtube.com/playlist?list=PLjjwN6s_CKYmyrPTSLBwqxTM-W7CBAIAb)
 
 - <span style="display: inline-block; width:3em;">1:00</span>報到、茶會
 - <span style="display: inline-block; width:3em;">1:20</span>開幕
