@@ -14,10 +14,8 @@ title: 2025 第四屆 LA Tea 工作坊
 
 <details>
 <summary>
-網站二維條碼
 </summary>
 <div>
-<img id="qr" style="display: block; margin-left: auto; margin-right: auto; width: 80%;" src="qr-2024.png" alt="QR code to this website">
 </div>
 </details>
 
