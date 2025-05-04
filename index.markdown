@@ -22,7 +22,6 @@ _如果你想收到 LA Tea 活動的相關訊息，請填 [表單](https://docs.
 我們將在每年底，從當年度投稿名單中選出一些具啟發性的文章，邀請作者在 LA Tea 工作坊裡給與 20 分鐘的演講。  
 
 ### 歷屆工作坊
-[2025](workshop/2025-workshop.html)  
 [2024](workshop/2024-workshop.html)  
 [2023](workshop/2023-workshop.html)  
 [2022](workshop/2022-workshop.html)
