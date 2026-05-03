@@ -32,3 +32,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "ffi", "~> 1.15"
+
+gem "webrick", "~> 1.9"
