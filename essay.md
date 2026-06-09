@@ -22,7 +22,7 @@ category-name: essay
 - [拉普拉斯矩陣]({{ site.baseurl }}{% link _posts/2023-07-16-拉普拉斯矩陣.md %})
 - [譜分群]({{ site.baseurl }}{% link _posts/2023-07-17-譜分群.md %})
 - [圖嵌入]({{ site.baseurl }}{% link _posts/2023-07-18-圖嵌入.md %})
-- 圖分割
+- [圖分割]({{ site.baseurl }}{% link _posts/2026-06-09-圖分割.md %})
 - 代數連通度與奇格常數
 - 相連矩陣的子矩陣行列式值
 - 柯西比內定理與矩陣樹定理
