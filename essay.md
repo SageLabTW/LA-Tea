@@ -24,7 +24,7 @@ category-name: essay
 - [圖嵌入]({{ site.baseurl }}{% link _posts/2023-07-18-圖嵌入.md %})
 - [圖分割]({{ site.baseurl }}{% link _posts/2026-06-09-圖分割.md %})
 - [樹圖的特徵向量]({{ site.baseurl }}{% link _posts/2026-06-19-樹圖的特徵向量.md %})
-- 樹圖的費德勒向量
+- [樹圖的費德勒向量]({{ site.baseurl }}{% link _posts/2026-06-20-樹圖的費德勒向量.md %})
 - 峰谷定理
 - 零集
 - 代數連通度與奇格常數
