@@ -1,6 +1,6 @@
 ---
 #layout: post
-title:  "2026 LA Tea 工作坊"
+title:  "2026 第四屆 LA Tea 工作坊"
 #date:   2026-07-01 10:00:00 +0800
 #categories: [workshop]
 ---
