@@ -1,58 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-  {% if page.particles %}
-      <style>
-        @keyframes colorChange {
-          0% { filter: hue-rotate(0deg); }
-          100% { filter: hue-rotate(360deg); }
-        }
-        #particles-js {
-          position: fixed; 
-          width: 100%; 
-          height: 100%; 
-          z-index: -1; 
-          top: 0; 
-          left: 0;
-          /* 這裡的 15s 代表 15 秒循環一次所有顏色，可以自由改數字 */
-          animation: colorChange 15s linear infinite; 
-        }
-      </style>
-
-      <div id="particles-js"></div>
-      
-      <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
-      
-      <script>
-        particlesJS("particles-js", {
-          "particles": {
-            "number": { 
-              "value": 60 /* 參數：調整粒子數量（原本 50） */ 
-            },
-            "color": { 
-              "value": "#00aaff" /* 參數：初始顏色（設定為科技藍） */ 
-            },
-            "line_linked": {
-              "enable": true,
-              "color": "#00aaff", /* 參數：連線顏色 */
-              "opacity": 0.5
-            },
-            "move": { 
-              "enable": true, 
-              "speed": 1.5 /* 參數：移動速度，（原本 2） */ 
-            }
-          },
-          "interactivity": {
-            "events": {
-              "onhover": { 
-                "enable": true, 
-                "mode": "grab" /* 參數：滑鼠互動模式，可以改成 "repulse" (排斥) 或 "bubble" (放大) */ 
-              }
-            }
-          }
-        });
-      </script>
-    {% endif %}
+ 
 
     {%- include header.html -%}
 
