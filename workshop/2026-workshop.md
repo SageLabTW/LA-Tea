@@ -25,7 +25,6 @@ title:  "2026 第四屆 LA Tea 工作坊"
 | 15:30 - 16:00 | 徐振翔 (碩士生) | Spectral Clustering |
 | 16:00 - 16:30 | 丁逸弘 (碩士生) | Spanning Tree |
 
-*
 ---
 
 ## 講題與摘要 (Abstracts)
