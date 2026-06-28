@@ -25,7 +25,7 @@ category-name: essay
 - [圖分割]({{ site.baseurl }}{% link _posts/2026-06-09-圖分割.md %})
 - [樹圖的特徵向量]({{ site.baseurl }}{% link _posts/2026-06-19-樹圖的特徵向量.md %})
 - [樹圖的費德勒向量]({{ site.baseurl }}{% link _posts/2026-06-20-樹圖的費德勒向量.md %})
-- 峰谷定理
+- [離散峰谷定理]({{ site.baseurl }}{% link _posts/2026-06-28-離散峰谷定理.md %})
 - 零集
 - 代數連通度與奇格常數
 - 相連矩陣的子矩陣行列式值
