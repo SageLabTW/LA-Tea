@@ -27,7 +27,7 @@ category-name: essay
 - [樹圖的費德勒向量]({{ site.baseurl }}{% link _posts/2026-06-20-樹圖的費德勒向量.md %})
 - [離散峰谷定理]({{ site.baseurl }}{% link _posts/2026-06-28-離散峰谷定理.md %})
 - [變號邊]({{ site.baseurl }}{% link _posts/2026-07-01-變號邊.md %})
-- 代數連通度與奇格常數
+- [代數連通度與奇格常數]({{ site.baseurl }}{% link _posts/2026-07-03-代數連通度與奇格常數.md %})
 - 相連矩陣的子矩陣行列式值
 - 柯西比內定理與矩陣樹定理
 - 全子矩陣樹定理
