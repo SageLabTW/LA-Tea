@@ -27,7 +27,7 @@ category-name: essay
 - [變號邊]({{ site.baseurl }}{% link _posts/2026-07-01-變號邊.md %})
 - [代數連通度與奇格常數]({{ site.baseurl }}{% link _posts/2026-07-03-代數連通度與奇格常數.md %})
 - [相連矩陣的子矩陣行列式值]({{ site.baseurl }}{% link _posts/2026-07-04-相連矩陣的子矩陣行列式值.md %})
-- 柯西比內定理與矩陣樹定理
+- [矩陣樹定理]({{ site.baseurl }}{% link _posts/2026-07-05-矩陣樹定理.md %})
 - 未來可能的主題：有效電阻、全子矩陣樹定理、有向圖的拉普拉斯矩陣
 
 
