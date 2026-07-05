@@ -2,7 +2,7 @@
 title: 詳細解說 Hoffman ratio bound 及其證明
 categories: essay
 date: 2022-04-17 17:00:00 +0800
-authors: 李翊誠
+author: 李翊誠
 spicy: 3
 ---
 
