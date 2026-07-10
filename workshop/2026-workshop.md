@@ -1,6 +1,6 @@
 ---
-layout: default
 title: 2026 LA Tea 工作坊
+particles: true
 ---
 
 
