@@ -74,14 +74,14 @@ particles: true
     <summary>
     大綱、參考資料
     </summary>
-    <p>Miroslav Fiedler在1989年提出的論文”Absolute Algebraic Connectivity of Trees”中為了決定樹的絕對代數連通度提出了圖的絕對重心（The Absolute Center of Gravity of Graph)，並且將其應用於樹上 。
-      在這次報告中將介紹絕對重心的定義與在樹上如何決定其位置的相關定理；在樹上除了絕對重心外還有與其相似的樹的重心（The Centroid of tree)演算法也會一併介紹，並且比較兩種方法所得出的重心位置。</p>
+    <p>Miroslav Fiedler 在 1989 年提出的論文 &lt;Absolute Algebraic Connectivity of Trees&gt; 中為了決定樹的絕對代數連通度提出了圖的絕對重心(absolute center of gravity of graph)，並且將其應用於樹上 。
+      在這次報告中將介紹絕對重心的定義與在樹上如何決定其位置的相關定理；在樹上除了絕對重心外還有與其相似的樹的重心 (centroid of tree) 演算法也會一併介紹，並且比較兩種方法所得出的重心位置。</p>
     </details>
     </div>
 
 - <span style="display: inline-block; width:4.5em;">3:30</span>**講者：徐振翔**
     <div style="padding-left:4.5em;">
-    講題：Graph Laplacians,Nodal Domains (節點域)
+    講題：Graph Laplacians and Nodal Domains (節點域)
     <details>
     <summary>
     大綱、參考資料
