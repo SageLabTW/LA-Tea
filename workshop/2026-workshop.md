@@ -34,12 +34,22 @@ particles: true
 
 - <span style="display: inline-block; width:4.5em;">10:00</span>**講者：劉家安**
     <div style="padding-left:4.5em;">
-    講題：TBA
+    講題：Degree sequence and spectral radius of graphs
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>（大綱待更新...）</p>
+    <p>Let $G$ be a simple graph of order n. The spectral radius $ρ(G)$ of $G$ is the largest eigenvalue of its adjacency matrix. For each positive integer $ℓ$ at most $n$,
+      we give a sharp upper bound for $ρ(G)$ by a function of the first $ℓ$ vertex degrees
+      in $G$, which generalizes a series of previous results. Several applications of these
+      bounds are then provided. The idea of the above result also applies to bipartite
+      graphs. We proved a conjecture stating that the maximum spectral radius of
+      a nearly complete bipartite graph is attained when the missing edges are all
+      incident on a common vertex. For arbitrary bipartite graphs, Bhattacharya,
+      Friedland, and Peled gave the BFP conjecture in 2008. However, we provided
+      counterexamples to the BFP conjecture in 2022. We modify the BFP conjecture,
+      and have recently been working on showing it. This is a joint work with Yen-Jen
+      Cheng, Feng-Lei Fan, and Chih-wen Weng.</p>
     </details>
     </div>
 
@@ -92,12 +102,12 @@ particles: true
 
 - <span style="display: inline-block; width:4.5em;">4:00</span>**講者：丁逸弘**
     <div style="padding-left:4.5em;">
-    講題：TBA
+    講題：Three Proofs of Cayley's Formula and Their Interconnections
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>（大綱待更新...）</p>
+    <p>本報告旨在探討計算完全圖生成樹數量的 Cayley's Formula $T_n = n^{n-2}$，並透過三種證明解析其數學結構與內在聯繫。報告首先以 Prüfer Code 切入，展示如何透過算法建立標號樹與序列之間的雙射；接著介紹停車函數，並將其與根生成樹數量建立連結；最後從圖論的視角，簡單介紹矩陣樹定理，並利用雙射將樹結構映射至一種與停車函數有相似性的函數。最後對比這三種方法，說明 Prüfer Code、停車函數跟生成樹如何互相對應，展現標號樹計數在組合數學中的統一性。</p>
     </details>
     </div>
 
