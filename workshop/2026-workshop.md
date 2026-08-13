@@ -55,12 +55,12 @@ particles: true
 
 - <span style="display: inline-block; width:4.5em;">11:00</span>**講者：鄭硯仁**
     <div style="padding-left:4.5em;">
-    講題：TBA
+    講題：The distance matrix of a graph
     <details>
     <summary>
     大綱、參考資料
     </summary>
-    <p>（大綱待更新...）</p>
+    <p>In 1971, Graham and Pollak proved that for a tree $T$ of order $n$, the determinant of the distance matrix of $T$ depends only on $n$; that is, it is independent of the structure of $T$. This result has been extensively studied and has led to many extensions and related results. In this talk, I will introduce several graph metrics, their corresponding distance matrices, and some related results.</p>
     </details>
     </div>
 
@@ -84,7 +84,7 @@ particles: true
     <summary>
     大綱、參考資料
     </summary>
-    <p>Miroslav Fiedler 在 1989 年提出的論文 &lt;Absolute Algebraic Connectivity of Trees&gt; 中為了決定樹的絕對代數連通度提出了圖的絕對重心(absolute center of gravity of graph)，並且將其應用於樹上 。
+    <p>Miroslav Fiedler 在 1990 年提出的論文 &lt;Absolute Algebraic Connectivity of Trees&gt; 中為了決定樹的絕對代數連通度提出了圖的絕對重心(absolute center of gravity of graph)，並且將其應用於樹上 。
       在這次報告中將介紹絕對重心的定義與在樹上如何決定其位置的相關定理；在樹上除了絕對重心外還有與其相似的樹的重心 (centroid of tree) 演算法也會一併介紹，並且比較兩種方法所得出的重心位置。</p>
     </details>
     </div>
