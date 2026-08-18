@@ -6,10 +6,33 @@ particles: true
 
 
 <div>
-  <a href="group-photo-2026-raw.jpg">
-    <img id="group-photo" style="display: none; margin-left: auto; margin-right: auto; width: 80%;" src="group-photo-2026.jpg" alt="Group photo">
+  <a id="photo-link" href="group-photo-2026-1-raw.jpg">
+    <img id="group-photo" style="display: block; margin-left: auto; margin-right: auto; width: 80%; transition: opacity 0.5s ease-in-out;" src="group-photo-2026-1.jpg" alt="Group photo">
   </a>
 </div>
+
+
+<script>
+  const photos = [
+    { src: "group-photo-2026-1.jpg", raw: "group-photo-2026-1-raw.jpg" },
+    { src: "group-photo-2026-2.jpg", raw: "group-photo-2026-2-raw.jpg" }
+  ];
+  
+  let currentIndex = 0;
+  const imgElement = document.getElementById("group-photo");
+  const linkElement = document.getElementById("photo-link");
+
+  setInterval(() => {
+    imgElement.style.opacity = 0;
+        setTimeout(() => {
+      currentIndex = (currentIndex + 1) % photos.length;
+      imgElement.src = photos[currentIndex].src;
+      linkElement.href = photos[currentIndex].raw;
+      imgElement.style.opacity = 1;
+    }, 500); 
+  }, 4000); 
+</script>
+
 
 <h2 style="text-align: center"><a href=" https://photos.app.goo.gl/8xM5hBC8u3vdS71a6">活動花絮</a></h2>
 
