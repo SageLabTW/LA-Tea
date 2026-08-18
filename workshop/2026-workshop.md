@@ -29,8 +29,8 @@ particles: true
       imgElement.src = photos[currentIndex].src;
       linkElement.href = photos[currentIndex].raw;
       imgElement.style.opacity = 1;
-    }, 500); 
-  }, 4000); 
+    }, 400); 
+  }, 5000); 
 </script>
 
 
